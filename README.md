@@ -37,9 +37,9 @@
 
 ---
 
-<img align="left" alt="sdeepanshu02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdeepanshu02&show_icons=true&hide_border=true" />
+<img align="left" alt="sdeepanshu02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdeepanshu02&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img align="right" alt="sdeepanshu02's Github Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeepanshu02&hide_border=true" />
+<img align="right" alt="sdeepanshu02's Github Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeepanshu02&hide_border=true&layout=compact" />
 
 [gehealthcare]: https://www.gehealthcare.com/
 [twitter]: https://twitter.com/sdeepanshu02
