@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdeepanshu02&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdeepanshu02&show_icons=true&hide_border=true" /> -->
 
 [gehealthcare]: https://www.gehealthcare.com/
 [twitter]: https://twitter.com/sdeepanshu02
